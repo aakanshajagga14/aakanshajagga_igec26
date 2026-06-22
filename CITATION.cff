@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Renewables AI Inequity Figures"
+authors:
+  - family-names: Jagga
+    given-names: Aakansha
+version: "1.0.0"
+date-released: 2026-06-23
+repository-code: "https://github.com/your-username/renewables-ai-inequity"
+license: "MIT"
+abstract: "Reproducible code and synthetic data for figures in a paper on AI bias in renewable energy access."
+keywords:
+  - renewable energy
+  - artificial intelligence
+  - fairness
+  - reproducibility
+  - figures
