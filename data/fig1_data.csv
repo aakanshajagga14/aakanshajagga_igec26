@@ -1,0 +1,7 @@
+Location,Actual Solar Potential (kWh/m²/day),AI Recommendation Score
+Urban-1,7.8,90
+Urban-2,7.4,92
+Urban-3,7.9,91
+Rural-1,7.6,65
+Rural-2,7.5,67
+Rural-3,7.7,66
